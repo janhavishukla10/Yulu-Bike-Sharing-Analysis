@@ -1,33 +1,65 @@
-# Yulu-Bike-Customer-Analysis
+# Yulu Bike-Sharing Analysis
 
-## Business Problem
-Analyze Yulu's bike-sharing data to understand usage patterns
-and identify factors affecting demand.
+## 📌 Business Problem
 
-## Objectives
+Yulu is a bike-sharing service that provides convenient transportation
+for short-distance travel.
+
+The objective of this analysis is to understand the factors influencing
+bike rental demand and identify patterns that can help support business
+and operational decisions.
+
+## 🎯 Objectives
+
+- Understand bike rental demand patterns
+- Analyze the impact of weather and other variables
+- Identify relationships between key variables
 - Perform exploratory data analysis
-- Identify demand patterns
-- Analyze the impact of weather and other factors
-- Perform statistical/hypothesis testing
-- Generate actionable business insights
+- Conduct statistical hypothesis testing
+- Translate analytical findings into business insights
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - SciPy
+- Exploratory Data Analysis
 - Statistics
 - Hypothesis Testing
 
-## Key Analysis
-- Data cleaning
+## 🔍 Analysis Performed
+
+### Exploratory Data Analysis
 - Univariate analysis
 - Bivariate analysis
-- Outlier analysis
-- Visualization
-- Hypothesis testing
+- Distribution analysis
+- Outlier detection
+- Correlation analysis
 
-## Conclusion
-...
+### Statistical Analysis
+- Hypothesis formulation
+- Statistical testing
+- p-value interpretation
+- Confidence intervals
+- Business interpretation of statistical results
+
+## 📊 Key Insights
+
+[Add your major findings here]
+
+## 💡 Business Recommendations
+
+[Add recommendations based on the analysis]
+
+## 📁 Project Structure
+
+```text
+Yulu-Bike-Sharing-Analysis/
+│
+├── README.md
+├── Yulu-Case-Study.ipynb
+└── data/
+    └── yulu.csv
